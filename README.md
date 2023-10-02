@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keerthana7175
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning java in bitlabs
+- 🌱 I’m currently learning Devops 
 - 💞️ I’m looking to collaborate on any of the company where i can implement my skills and knowledge and gain some earnings for personal and family needs.
 - 📫 How to reach me keerthanagajagatla@gmail.com
 
